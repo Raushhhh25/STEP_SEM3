@@ -7,7 +7,7 @@
 * **Today's Work:** 
   * Summary: Basic Command Functions in Java (Palindrome, GCD, Boolean, Pattern)
 * **Next Session Plan:** 
-  * 
+  * None
 * **Issues Faced:** 
   * None
 
